@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jounghyunyoo.com/sitemap.xml
+Sitemap: https://miyeonjung.com/sitemap.xml
