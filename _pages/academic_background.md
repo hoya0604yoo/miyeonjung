@@ -68,16 +68,16 @@ html{
 
 @media (max-width:768px){
 
-.academic-item{
-  grid-template-columns:1fr;
-  row-gap:.3rem;
-  max-width:100%;
-}
+  .academic-item{
+    grid-template-columns:1fr;
+    row-gap:.3rem;
+    max-width:100%;
+  }
 
-.academic-date{
-  padding-top:0;
-  margin-bottom:.15rem;
-}
+  .academic-date{
+    padding-top:0;
+    margin-bottom:.15rem;
+  }
 
 }
 
@@ -85,125 +85,111 @@ html{
 
 <div class="academic-background">
 
-<div class="academic-section">
+  <div class="academic-section">
 
-<h2>Professional Experience</h2>
+    <h2>Academic Appointments</h2>
 
-<div class="academic-item">
+    <div class="academic-item">
 
-<div class="academic-date">
-2021.09 – Present
-</div>
+      <div class="academic-date">
+        2025.01 – Present
+      </div>
 
-<div>
+      <div>
+        <div class="academic-title">
+          Assistant Professor of Marketing
+        </div>
+        <div class="academic-place">
+          Department of Design &amp; Innovation
+        </div>
+        <div class="academic-place">
+          Weatherhead School of Management
+        </div>
+        <div class="academic-place">
+          Case Western Reserve University
+        </div>
+        <div class="academic-note">
+          Cleveland, Ohio, USA
+        </div>
+      </div>
 
-<div class="academic-title">
-Postdoctoral Researcher
-</div>
+    </div>
 
-<div class="academic-place">
-Department of Medical Engineering
-</div>
+    <div class="academic-item">
 
-<div class="academic-place">
-California Institute of Technology (Caltech)
-</div>
+      <div class="academic-date">
+        2022.07 – 2024.12
+      </div>
 
-<div class="academic-note">
-Advisor: Prof. Wei Gao
-</div>
-<div class="academic-note">
-Co-advisor: Prof. Jinmyoung Joo (UNIST)
-</div>
+      <div>
+        <div class="academic-title">
+          Assistant Professor of Business Analytics
+        </div>
+        <div class="academic-place">
+          Lee Business School
+        </div>
+        <div class="academic-place">
+          University of Nevada, Las Vegas
+        </div>
+        <div class="academic-note">
+          Las Vegas, Nevada, USA
+        </div>
+      </div>
 
-</div>
+    </div>
 
-</div>
+  </div>
 
+  <div class="academic-section">
 
-<div class="academic-item">
+    <h2>Education</h2>
 
-<div class="academic-date">
-2019.09 – 2021.08
-</div>
+    <div class="academic-item">
 
-<div>
+      <div class="academic-date">
+        2017 – 2022
+      </div>
 
-<div class="academic-title">
-Postdoctoral Researcher
-</div>
+      <div>
+        <div class="academic-title">
+          Ph.D., Management Engineering
+        </div>
+        <div class="academic-place">
+          KAIST College of Business
+        </div>
+        <div class="academic-note">
+          Integrated M.S./Ph.D. Program · Major: IT Management
+        </div>
+        <div class="academic-note">
+          Advisor: Prof. Daegon Cho
+        </div>
+        <div class="academic-note">
+          Seoul, South Korea
+        </div>
+      </div>
 
-<div class="academic-place">
-Chemical and Biological Integrative Research Center
-</div>
+    </div>
 
-<div class="academic-place">
-Korea Institute of Science and Technology (KIST)
-</div>
+    <div class="academic-item">
 
-<div class="academic-note">
-Advisor: Dr. Sehoon Kim
-</div>
+      <div class="academic-date">
+        2011 – 2015
+      </div>
 
-</div>
+      <div>
+        <div class="academic-title">
+          B.S., Industrial and Management Engineering
+        </div>
+        <div class="academic-place">
+          Pohang University of Science and Technology (POSTECH)
+        </div>
+        <div class="academic-note">
+          Pohang, South Korea
+        </div>
+      </div>
 
-</div>
+    </div>
 
-</div>
-
-<div class="academic-section">
-
-<h2>Education</h2>
-
-<div class="academic-item">
-
-<div class="academic-date">
-2014.03 – 2019.08
-</div>
-
-<div>
-
-<div class="academic-title">
-Ph.D., Chemical Engineering
-</div>
-
-<div class="academic-place">
-Pohang University of Science and Technology (POSTECH)
-</div>
-
-<div class="academic-note">
-Advisor: Prof. Shi-Woo Rhee
-</div>
-
-
-</div>
-
-</div>
-
-<div class="academic-item">
-
-<div class="academic-date">
-2010.03 – 2014.02
-</div>
-
-<div>
-
-<div class="academic-title">
-B.S., Chemical Engineering
-</div>
-
-<div class="academic-place">
-Pohang University of Science and Technology (POSTECH)
-</div>
-
-<div class="academic-note">
-Magna cum laude
-</div>
-
-</div>
-
-</div>
-
-</div>
+  </div>
 
 </div>
