@@ -8,7 +8,6 @@ nav_order: 2
 ---
 
 <style>
-
 .post-title {
   display: none;
 }
@@ -36,7 +35,7 @@ nav_order: 2
 .research-intro p {
   text-align: justify;
   margin-top: 0;
-  margin-bottom: 0;
+  margin-bottom: 1rem;
 }
 
 .research-section {
@@ -71,49 +70,50 @@ nav_order: 2
   margin: 1.2rem 0 1.4rem 0;
   border-radius: 4px;
 }
-
 </style>
 
 <div class="research-page">
 
-  <h1 class="research-overview-title">Research</h1>
+<h1 class="research-overview-title">Research</h1>
 
-  <div class="research-intro">
+<div class="research-intro">
 
-    <p>My research examines how digital technologies shape consumer behavior, organizational decisions, and market outcomes. I use randomized field experiments and econometric methods to study the effects of digital interventions and the conditions under which they work. In collaboration with industry partners, I investigate questions in digital marketing, human–AI interaction, healthcare analytics, and digital platform regulation.</p>
+<p>My research examines how digital technologies shape consumer behavior, organizational decisions, and market outcomes. I use randomized field experiments and econometric methods to study the effects of digital interventions and the conditions under which they work. In collaboration with industry partners, I investigate questions in digital marketing, human–AI interaction, healthcare analytics, and digital platform regulation.</p>
 
-  </div>
+<p>See <a href="{{ '/publications/' | relative_url }}">Publications</a> for details.</p>
 
-  <div class="research-section">
+</div>
 
-    <h2>Digital Marketing and Consumer Behavior</h2>
+<div class="research-section">
 
-    <p>How should firms design and deliver digital interventions to engage consumers? My research examines how the timing, targeting, and presentation of messages and incentives influence consumer decisions. My published work studies when to request online reviews and how personalized digital nudges address consumer misperceptions. Current projects examine wishlist-based coupon targeting, competition among promotions within consumers’ coupon wallets, and goal pursuit in membership programs. Through field experiments, I study how these interventions affect purchasing, engagement, and progress toward rewards.</p>
+<h2>Digital Marketing and Consumer Behavior</h2>
 
-  </div>
+<p>How should firms design and deliver digital interventions to engage consumers? My research examines how the timing, targeting, and presentation of messages and incentives influence consumer decisions. My published work studies when to request online reviews and how personalized digital nudges address consumer misperceptions. Current projects examine wishlist-based coupon targeting, competition among promotions within consumers’ coupon wallets, and goal pursuit in membership programs. Through field experiments, I study how these interventions affect purchasing, engagement, and progress toward rewards.</p>
 
-  <div class="research-section">
+</div>
 
-    <h2>Human–AI Interaction and Decision-Making</h2>
+<div class="research-section">
 
-    <p>As AI systems take on a greater role in decision-making, their effects depend on how people use and respond to them. My research investigates these interactions in settings where human judgment and automated assistance jointly determine outcomes. Current projects examine traffic safety in semi-autonomous driving, the adoption of recommendations in prescription drug decisions, and gender bias in AI-assisted hiring. These studies explore when automated assistance improves decisions and how its design influences human behavior, learning, and fairness.</p>
+<h2>Human–AI Interaction and Decision-Making</h2>
 
-  </div>
+<p>As AI systems take on a greater role in decision-making, their effects depend on how people use and respond to them. My research investigates these interactions in settings where human judgment and automated assistance jointly determine outcomes. Current projects examine traffic safety in semi-autonomous driving and gender bias in AI-assisted hiring. These studies explore when automated assistance improves decisions and how its design influences human behavior, safety, and fairness.</p>
 
-  <div class="research-section">
+</div>
 
-    <h2>Digital Health and Healthcare Analytics</h2>
+<div class="research-section">
 
-    <p>My healthcare research studies how digital tools can support patients and inform clinical decisions. My work on mobile health examines physical activity, distress, and peer support among breast cancer survivors, using patient-reported outcomes, smartphone applications, and wearable devices. A current project investigates how physicians respond to prescription drug recommendations and how recommendation novelty relates to adoption and adaptation. Across these settings, I study how information and digital support translate into changes in behavior.</p>
+<h2>Digital Health and Healthcare Analytics</h2>
 
-  </div>
+<p>My healthcare research studies how digital tools can support patients and inform clinical decisions. My work on mobile health examines physical activity, distress, and peer support among breast cancer survivors, using patient-reported outcomes, smartphone applications, and wearable devices. A current project investigates how physicians respond to prescription drug recommendations and how recommendation novelty relates to adoption and adaptation. Across these settings, I study how information and digital support translate into changes in behavior.</p>
 
-  <div class="research-section">
+</div>
 
-    <h2>Digital Platforms and Regulation</h2>
+<div class="research-section">
 
-    <p>My research examines how platform participants respond to changes in access, governance, and regulation. Current projects study creator responses to digital access restrictions, social media activism following the FTX bankruptcy, and the effects of real-name regulation on cryptocurrency markets. I also examine blockchain participation following sanctions relief. These studies investigate how policy changes and disruptions affect content creation, participation, and demands for transparency in digital markets.</p>
+<h2>Digital Platforms and Regulation</h2>
 
-  </div>
+<p>My research examines how platform participants respond to changes in access, governance, and regulation. Current projects study creator responses to digital access restrictions, social media activism following the FTX bankruptcy, and the effects of real-name regulation on cryptocurrency markets. I also examine blockchain participation following sanctions relief. These studies investigate how policy changes and disruptions affect content creation, participation, and demands for transparency in digital markets.</p>
+
+</div>
 
 </div>
