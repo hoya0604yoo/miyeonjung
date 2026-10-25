@@ -9,7 +9,6 @@ nav_order: 2
 
 <style>
 
-/* Hide the automatic page title while keeping "Research" in the navigation menu */
 .post-title {
   display: none;
 }
@@ -20,7 +19,6 @@ nav_order: 2
   line-height: 1.8;
 }
 
-/* Main page title */
 .research-overview-title {
   color: #111;
   font-size: 2.5rem;
@@ -30,7 +28,6 @@ nav_order: 2
   margin-bottom: 2rem;
 }
 
-/* Research overview paragraph */
 .research-intro {
   max-width: 900px;
   margin-bottom: 2.5rem;
@@ -42,13 +39,11 @@ nav_order: 2
   margin-bottom: 0;
 }
 
-/* Individual research sections */
 .research-section {
   margin-top: 2rem;
   margin-bottom: 2.2rem;
 }
 
-/* Section titles */
 .research-section h2 {
   color: #333;
   font-size: 1.85rem;
@@ -61,7 +56,6 @@ nav_order: 2
   max-width: 100%;
 }
 
-/* Body text */
 .research-section p {
   max-width: 900px;
   text-align: justify;
@@ -69,7 +63,6 @@ nav_order: 2
   margin-bottom: 0;
 }
 
-/* Optional images */
 .research-section img {
   width: 100%;
   max-width: 100%;
@@ -83,36 +76,44 @@ nav_order: 2
 
 <div class="research-page">
 
-<h1 class="research-overview-title">Research</h1>
+  <h1 class="research-overview-title">Research</h1>
 
-<div class="research-intro">
+  <div class="research-intro">
 
-<p>My research focuses on developing active and intelligent medical systems that can navigate complex biological environments, respond to local physiological conditions, and perform therapeutic functions inside the body. Across medical micro/nanorobotics, in vivo biofabrication, and nanomedicine, I seek to control how engineered materials are transported, localized, and activated within biological systems. The long-term goal is to advance these technologies toward clinical translation for precise, minimally invasive, and patient-specific therapeutic intervention.</p>
+    <p>My research examines how digital technologies shape consumer behavior, organizational decisions, and market outcomes. I use randomized field experiments and econometric methods to study the effects of digital interventions and the conditions under which they work. In collaboration with industry partners, I investigate questions in digital marketing, human–AI interaction, healthcare analytics, and digital platform regulation.</p>
 
-</div>
+  </div>
 
-<div class="research-section">
+  <div class="research-section">
 
-<h2>Medical Micro/Nanorobots</h2>
+    <h2>Digital Marketing and Consumer Behavior</h2>
 
-<p>Medical micro- and nanorobotic systems provide new approaches for active transport, targeted delivery, and minimally invasive therapy. A major challenge in this area is overcoming biological barriers that limit conventional drug delivery, including vascular barriers, dense tissue microenvironments, and restricted tissue interfaces. Responsive materials, physical actuation, molecular targeting, and imaging-guided evaluation can improve transport, localization, and therapeutic control within the body. My interest is in developing micro/nanorobotic systems that can navigate complex biological environments, respond to physiological conditions, and provide localized therapeutic functions.</p>
+    <p>How should firms design and deliver digital interventions to engage consumers? My research examines how the timing, targeting, and presentation of messages and incentives influence consumer decisions. My published work studies when to request online reviews and how personalized digital nudges address consumer misperceptions. Current projects examine wishlist-based coupon targeting, competition among promotions within consumers’ coupon wallets, and goal pursuit in membership programs. Through field experiments, I study how these interventions affect purchasing, engagement, and progress toward rewards.</p>
 
-</div>
+  </div>
 
-<div class="research-section">
+  <div class="research-section">
 
-<h2>In Vivo Biofabrication</h2>
+    <h2>Human–AI Interaction and Decision-Making</h2>
 
-<p>Imaging-guided in vivo biofabrication aims to construct functional biomaterials directly within target tissues through minimally invasive approaches. Current tissue engineering strategies often rely on ex vivo fabrication followed by surgical implantation, which can limit their adaptability to deep, irregular, moving, and patient-specific tissue environments. Focused ultrasound provides a means to control material formation within biological tissues, together with responsive bioinks and image-guided printing. I am particularly interested in developing in vivo fabrication methods that can adapt to complex anatomy and tissue motion for precise formation of functional biomaterials.</p>
+    <p>As AI systems take on a greater role in decision-making, their effects depend on how people use and respond to them. My research investigates these interactions in settings where human judgment and automated assistance jointly determine outcomes. Current projects examine traffic safety in semi-autonomous driving, the adoption of recommendations in prescription drug decisions, and gender bias in AI-assisted hiring. These studies explore when automated assistance improves decisions and how its design influences human behavior, learning, and fairness.</p>
 
-</div>
+  </div>
 
-<div class="research-section">
+  <div class="research-section">
 
-<h2>Nanomedicine and Biointerfaces</h2>
+    <h2>Digital Health and Healthcare Analytics</h2>
 
-<p>Nanomedicine and biointerface research provides a foundation for designing materials that function effectively within biological systems. Nanomaterial properties such as composition, morphology, surface chemistry, and biodegradability can strongly influence biological transport, cellular interactions, imaging performance, and therapeutic activity. Biodegradable nanomaterials, molecular imaging, responsive nanosensors, and engineered material interfaces provide useful tools for controlling these interactions. My interest is in designing functional nanomaterials that can respond to biological environments and support precision diagnosis, therapy, and broader applications in micro/nanorobotics and in vivo biofabrication.</p>
+    <p>My healthcare research studies how digital tools can support patients and inform clinical decisions. My work on mobile health examines physical activity, distress, and peer support among breast cancer survivors, using patient-reported outcomes, smartphone applications, and wearable devices. A current project investigates how physicians respond to prescription drug recommendations and how recommendation novelty relates to adoption and adaptation. Across these settings, I study how information and digital support translate into changes in behavior.</p>
 
-</div>
+  </div>
+
+  <div class="research-section">
+
+    <h2>Digital Platforms and Regulation</h2>
+
+    <p>My research examines how platform participants respond to changes in access, governance, and regulation. Current projects study creator responses to digital access restrictions, social media activism following the FTX bankruptcy, and the effects of real-name regulation on cryptocurrency markets. I also examine blockchain participation following sanctions relief. These studies investigate how policy changes and disruptions affect content creation, participation, and demands for transparency in digital markets.</p>
+
+  </div>
 
 </div>
