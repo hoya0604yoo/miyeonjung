@@ -2,22 +2,27 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Jounghyun
-middle_name: 
-last_name: Yoo
-contact_note:
-description: Postdoctoral Researcher at the California Institute of Technology, working on micro/nanorobotics, bioprinting, nanomedicine. # the ">" symbol means to ignore newlines until "footer_text:"
+title: blank
+first_name: Miyeon
+middle_name:
+last_name: Jung
+contact_note: >
+  <a href="mailto:miyeon.jung@case.edu">miyeon.jung@case.edu</a>
+description: >
+  Assistant Professor of Marketing at the Weatherhead School of Management,
+  Case Western Reserve University. Research interests include digital marketing
+  and field experiments, human–AI interaction, healthcare analytics,
+  AI fairness, and digital platforms and regulation.
 footer_text: >
-keywords: Micro/nanorobotics, Biofabrication, Nanomedicine # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: Digital Marketing, Field Experiments, Human–AI Interaction, Healthcare Analytics, AI Fairness, Digital Platforms, Regulation
+lang: en
+icon: 🎓
 
-url: https://jounghyunyoo.com # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+url: https://miyeonjung.com
+baseurl: ""
+last_updated: false
+impressum_path:
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme
