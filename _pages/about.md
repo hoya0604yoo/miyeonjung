@@ -11,12 +11,15 @@ profile:
   image_circular: false
   more_info: >
     <div class="profile-caption">
-      <div class="profile-title">Postdoctoral Researcher</div>
+      <div class="profile-title">Assistant Professor of Marketing</div>
       <div class="profile-dept">
-        <a href="https://mede.caltech.edu/" target="_blank">Department of Medical Engineering</a>
+        Department of Design & Innovation
       </div>
-      <div class="profile-inst">California Institute of Technology</div>
-      <div class="profile-location">Pasadena, California, USA</div>
+      <div class="profile-school">
+        <a href="https://case.edu/weatherhead/" target="_blank" rel="noopener">Weatherhead School of Management</a>
+      </div>
+      <div class="profile-inst">Case Western Reserve University</div>
+      <div class="profile-location">Cleveland, Ohio, USA</div>
     </div>
 
 selected_papers: false
@@ -71,13 +74,13 @@ latest_posts:
   margin-bottom: 0.02rem !important;
 }
 
-.profile-caption .profile-dept a {
+.profile-caption .profile-school a {
   color: #b0008e !important;
   text-decoration: none !important;
   font-weight: 500 !important;
 }
 
-.profile-caption .profile-dept a:hover {
+.profile-caption .profile-school a:hover {
   text-decoration: underline !important;
 }
 
@@ -107,14 +110,16 @@ latest_posts:
 }
 </style>
 
-I am a postdoctoral researcher in the Department of Medical Engineering at the California Institute of Technology, working in Prof. Wei Gao's lab.
+I am an Assistant Professor of Marketing in the Department of Design & Innovation at the Weatherhead School of Management, Case Western Reserve University.
 
-My research focuses on active and intelligent medical systems for precision medicine, with an emphasis on medical micro/nanorobotics, in vivo biofabrication, and nanomedicine. I develop micro/nanorobotic and nanomaterial systems that interact with complex biological environments to improve therapeutic delivery and localized intervention.
+My research examines how digital technologies influence consumer behavior and decision-making. My interests include digital marketing, human–AI interaction, healthcare analytics, AI fairness, and digital platforms and regulation. I use field experiments and econometric methods to study these questions in collaboration with industry partners.
 
-Current work includes medical micro/nanorobots designed to address biological and structural barriers that limit the transport and localization of therapeutics. I am also interested in responsive nanomaterials and biointerfaces that respond to local physiological conditions to improve therapeutic precision.
+My work explores how the timing and design of digital interventions affect behavior, including responses to review requests, personalized nudges, and promotional offers. I also study how people respond to AI-assisted decisions and how regulatory changes affect participation in digital platforms.
 
-In parallel, I develop imaging-guided in vivo biofabrication approaches, including acoustic printing, for the formation of functional biomaterials within living tissues. This work aims to enable minimally invasive fabrication in complex and dynamic tissue environments.
+My research has been published in the *Journal of Marketing*, *Production and Operations Management*, and the *Journal of Medical Internet Research*, among other journals. It has also been featured in *Harvard Business Review* and *The Wall Street Journal*.
 
-My long-term goal is to translate these technologies into practical medical platforms for precise and minimally invasive treatment.
+Before joining Case Western Reserve University, I was an Assistant Professor of Business Analytics at the University of Nevada, Las Vegas. I received my Ph.D. in Management Engineering from KAIST and my bachelor's degree in Industrial and Management Engineering from POSTECH.
 
-Further details on my research and academic background are available in my [publications](/publications/) and [CV](/assets/pdf/Jounghyun_Yoo_CV.pdf).
+I teach marketing analytics, business programming, and quantitative research methods, with an emphasis on using data and analytical tools to address business questions.
+
+Further details on my research and academic background are available in my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/assets/pdf/Miyeon_Jung_CV.pdf' | relative_url }}).
