@@ -32,12 +32,24 @@ html{
   max-width:100%;
 }
 
+.academic-section h3{
+  color:#444;
+  font-size:1.2rem;
+  font-weight:600;
+  margin-top:1.8rem;
+  margin-bottom:1.1rem;
+}
+
 .academic-item{
   display:grid;
   grid-template-columns:150px 1fr;
   column-gap:1.8rem;
   margin-bottom:2rem;
   max-width:900px;
+}
+
+.academic-item.compact{
+  margin-bottom:1.1rem;
 }
 
 .academic-date{
@@ -64,6 +76,13 @@ html{
   color:#666;
   font-size:.96rem;
   line-height:1.55;
+}
+
+.academic-list{
+  max-width:900px;
+  font-size:1rem;
+  color:#222;
+  line-height:1.8;
 }
 
 @media (max-width:768px){
@@ -188,6 +207,79 @@ html{
         </div>
       </div>
 
+    </div>
+
+  </div>
+
+  <div class="academic-section">
+
+    <h2>Professional Service</h2>
+
+    <h3>Conference Organization</h3>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2027</div>
+      <div>
+        <div class="academic-title">Session Organizer &amp; Chair, Healthcare Analytics Session</div>
+        <div class="academic-place">Production and Operations Management Society (POMS) Annual Conference</div>
+        <div class="academic-note">Orlando, Florida, USA</div>
+      </div>
+    </div>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2025</div>
+      <div>
+        <div class="academic-title">Track Co-Chair, Information Technology/Information Systems Track</div>
+        <div class="academic-place">Decision Sciences Institute (DSI) 56th Annual Conference</div>
+      </div>
+    </div>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2024</div>
+      <div>
+        <div class="academic-title">Track Chair, Information Technology/Information Systems Track</div>
+        <div class="academic-place">Decision Sciences Institute (DSI) Annual Conference</div>
+      </div>
+    </div>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2024</div>
+      <div>
+        <div class="academic-title">Associate Editor, Digital Innovation, Transformation and Entrepreneurship Track</div>
+        <div class="academic-place">International Conference on Information Systems (ICIS)</div>
+      </div>
+    </div>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2023, 2024</div>
+      <div>
+        <div class="academic-title">Program Committee Member</div>
+        <div class="academic-place">Conference on Information Systems and Technology (CIST)</div>
+      </div>
+    </div>
+
+    <div class="academic-item compact">
+      <div class="academic-date">2022 – 2024</div>
+      <div>
+        <div class="academic-title">Program Committee Member</div>
+        <div class="academic-place">Post-ICIS KrAIS Research Workshop</div>
+        <div class="academic-note">Mentor, KrAIS Doctoral Consortium (2023)</div>
+      </div>
+    </div>
+
+    <h3>Ad-hoc Reviewer</h3>
+
+    <div class="academic-list">
+      Production and Operations Management · MIS Quarterly · Information Systems Research · Decision Support Systems · Journal of the Association for Information Systems · Information &amp; Management · Asia-Pacific Journal of Financial Studies
+    </div>
+    <div class="academic-list academic-note">
+      Conferences: ICIS · HICSS · CIST · PACIS · DSI
+    </div>
+
+    <h3>Professional Memberships</h3>
+
+    <div class="academic-list">
+      Production and Operations Management Society (POMS) · American Marketing Association (AMA) · American Finance Association (AFA)
     </div>
 
   </div>
