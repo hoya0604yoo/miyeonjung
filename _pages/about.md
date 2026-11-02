@@ -157,25 +157,28 @@ Before joining Case Western Reserve University, I was an Assistant Professor of 
 
 I teach marketing analytics, business programming, and quantitative research methods, with an emphasis on using data and analytical tools to address business questions.
 
-<h2>News</h2>
+<div class="news-section">
+  <h2>News</h2>
 
-<table style="width:100%; border-collapse:collapse;">
-  <tr>
-    <td style="width:120px; vertical-align:top; padding:6px 12px 6px 0; white-space:nowrap;">Apr 2027</td>
-    <td style="padding:6px 0;">Organizing and chairing a Healthcare Analytics session at the POMS 2027 Annual Conference, Orlando.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align:top; padding:6px 12px 6px 0; white-space:nowrap;">Dec 2026</td>
-    <td style="padding:6px 0;">Presenting "A Goldilocks Effect in Recommendation Novelty" (with Hemant Bhargava) at WISE 2026, Lisbon.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align:top; padding:6px 12px 6px 0; white-space:nowrap;">Nov 2026</td>
-    <td style="padding:6px 0;">Launching a driving-simulator experiment on human–automation interaction with Kwangwoon University.</td>
-  </tr>
-  <tr>
-    <td style="vertical-align:top; padding:6px 12px 6px 0; white-space:nowrap;">Oct 2026</td>
-    <td style="padding:6px 0;">"The Untapped Power of Wishlists" conditionally accepted at <em>International Journal of Research in Marketing</em>.</td>
-  </tr>
-</table>
+  <div class="news-item">
+    <div class="news-date">Apr 2027</div>
+    <div>Organizing and chairing a Healthcare Analytics session at the POMS 2027 Annual Conference, Orlando.</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Dec 2026</div>
+    <div>Presenting "A Goldilocks Effect in Recommendation Novelty" (with Hemant Bhargava) at WISE 2026, Lisbon.</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Nov 2026</div>
+    <div>Launching a driving-simulator experiment on human–automation interaction with Kwangwoon University.</div>
+  </div>
+
+  <div class="news-item">
+    <div class="news-date">Oct 2026</div>
+    <div>"The Untapped Power of Wishlists" conditionally accepted at <em>International Journal of Research in Marketing</em>.</div>
+  </div>
+</div>
 
 Further details on my research and academic background are available in my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/assets/pdf/Miyeon_Jung_CV.pdf' | relative_url }}).
