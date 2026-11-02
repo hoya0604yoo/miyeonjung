@@ -237,7 +237,7 @@ html{
     <div class="academic-item compact">
       <div class="academic-date">2024</div>
       <div>
-        <div class="academic-title">Track Chair, Information Technology/Information Systems Track</div>
+        <div class="academic-title">Session Chair, Information Technology/Information Systems Track</div>
         <div class="academic-place">Decision Sciences Institute (DSI) Annual Conference</div>
       </div>
     </div>
