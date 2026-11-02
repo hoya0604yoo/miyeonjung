@@ -181,4 +181,4 @@ I teach marketing analytics, business programming, and quantitative research met
   </div>
 </div>
 
-Further details on my research and academic background are available in my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/assets/pdf/Miyeon_Jung_CV.pdf' | relative_url }}).
+Further details on my research and academic background are available in my [publications]({{ '/publications/' | relative_url }}) and [CV]({{ '/assets/pdf/Miyeon_Jung_CV_2026-11.pdf' | relative_url }}).
